@@ -8,7 +8,7 @@
 | **[Introductory Rooms](#intro-rooms)**           |     21       |              1              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                             |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
-| **[Basic Rooms](#basics-rooms)**                 |     14       |                             |
+| **[Basic Rooms](#basics-rooms)**                 |     14       |              1              |
 | **[Reconnaissance](#recon)**                     |     10       |                             |
 | **[Scripting](#scripting)**                      |      7       |                             |
 | **[Networking](#networking)**                    |      7       |              1              |
@@ -107,7 +107,7 @@
 
 ## Basics Rooms
 
-- [ ] [🕵️ TryHackMe | Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
+- [x] [🕵️ TryHackMe | Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
   
 - [ ] [🕵️ TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
