@@ -5,13 +5,13 @@
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |                             |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |              1              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                             |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                             |
 | **[Reconnaissance](#recon)**                     |     10       |                             |
 | **[Scripting](#scripting)**                      |      7       |                             |
-| **[Networking](#networking)**                    |      7       |                             |
+| **[Networking](#networking)**                    |      7       |              1              |
 | **[Tooling](#tooling)**                          |     18       |                             |
 | **[Container Security](#container-security)**    |     3        |                              |
 | **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                             |
@@ -27,7 +27,7 @@
 | **[Active Directory](#active-directory)**        |      8       |                             |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |                             |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |                             |
-| **[Easy CTF](#easy-ctf)**                        |     98       |                             |
+| **[Easy CTF](#easy-ctf)**                        |     98       |              2              |
 | **[Medium CTF](#medium-ctf)**                    |     99       |                             |
 | **[Hard CTF](#hard-ctf)**                        |     42       |                             |
 | **[Insane CTF](#insane-ctf)**                    |      1       |                             |
@@ -80,7 +80,7 @@
 
 - [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
-- [ ] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
+- [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
 - [ ] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 
@@ -177,7 +177,7 @@
 
 - [ ] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [x] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 - [ ] [🕵️ TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
@@ -503,9 +503,9 @@
 
 ## Easy CTF
 
-- [ ] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+- [x] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 
-- [ ] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+- [x] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
       
 - [ ] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
