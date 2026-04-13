@@ -46,42 +46,6 @@
     </tbody>
 </table>
 </div>
-
-### Welcome, Hackers! 👾
-
-Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into cybersecurity and hacking. These rooms are organized by topic so you can learn and practice systematically. Best part? **They’re all free!** 🧑‍💻🔓  
-
-_**Start hacking now, and happy hunting!** 🏹_  
-
-Ready to start hacking? **Let’s go!** 💥
-
----
-
-## 🛡️ Maintainer  
-
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
-
----
-
-## 📰 News  
-**Practice, practice, practice!** Keep working hard, and it will all fall into place. No shortcuts in hacking! 🛠️  
-> Stay curious and keep learning. 🚀
-
----
-
-## 💖 **How You Can Support**
-
-If you appreciate this repository and want to show your support, you can do so through these platforms:
-
-| ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
-
-**Thank you for your support! Every bit helps keep this repository going.** 🌈✨
-
 ---
 
 ## 📜 **Table of Contents**
@@ -135,43 +99,6 @@ Here are a few other labs you could consider adding:
 9. **Cloud Security** ☁️: Add rooms related to AWS, Azure, or GCP security.
 
 ---
-
-## 🌟 **Contribute and Expand the Arsenal!** 🌟
-
-Hey, fellow hackers! 🕵️‍♂️
-
-This repository is a growing treasure trove of **500+ Free TryHackMe Rooms**, but we know there are countless more amazing labs out there waiting to be discovered. That's where **you** come in! 🚀  
-
-If you know of **free TryHackMe labs** that aren’t included in this list, we’d love for you to contribute and help us grow this project into the ultimate **TryHackMe learning resource**. 💡  
-
-### 🛠️ **How to Contribute**
-1. **Fork** this repository and clone it locally.  
-2. Add your rooms to the relevant section in the `README.md` file. Don’t forget to **number the new additions** to maintain the count!  
-3. Open a **Pull Request (PR)** with your changes.  
-4. Sit back and enjoy the satisfaction of helping a global community of learners. 🎉  
-
-
-### ⚠️ **Contribution Guidelines**
-- Ensure the lab links are **free-to-access** on TryHackMe.  
-- Add the lab’s **name** and a **brief description** to provide context.  
-- Double-check that you’re not duplicating any existing entries.  
-
-Your contributions will not only help beginners and experienced hackers alike but also foster a collaborative spirit in the community. Let’s work together to create a comprehensive, free, and accessible learning resource for cybersecurity enthusiasts worldwide. 🌍🔐  
-
-
-### 🏆 **Your Impact**
-By contributing:
-- You’re helping learners **discover new challenges** and **expand their skills.**  
-- You’ll earn credit as a valued contributor to this project. 🌟  
-- You’ll be making the cybersecurity community stronger and more inclusive.  
-
-So, what are you waiting for? Let’s grow this collection together, one lab at a time. 💻✨
-
---- 
-
-**🌐 Let’s build the ultimate TryHackMe lab directory, one PR at a time! 🔗 [Make your contribution now.](https://github.com/Hunterdii/tryhackme-free-rooms/pulls)**
-
-
 
 ## Intro Rooms
 
